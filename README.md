@@ -49,7 +49,7 @@ As part of making the data easier to work with, i have **renamed all the columns
 
 * Age distribution spans from 32 to 70, and the majority of individuals have systolic BP between 90 to 200.
 
-**Conclusion**
+# **Conclusion**
 
 * I applied eight classification ML models in our analysis, including Logistic Regression,Decision Tree, Random Forest,AdaBoost,NaieBayes XGBoost, KNN, and SVM.
 
